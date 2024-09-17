@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/bin/Debug/net9.0/delegates
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/bin/Debug/net9.0/delegates.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/bin/Debug/net9.0/delegates.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/bin/Debug/net9.0/delegates.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/bin/Debug/net9.0/delegates.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/refint/delegates.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/delegates.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/delegates/obj/Debug/net9.0/ref/delegates.dll

@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/bin/Debug/net9.0/InterfaceandAbstract
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/bin/Debug/net9.0/InterfaceandAbstract.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/bin/Debug/net9.0/InterfaceandAbstract.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/bin/Debug/net9.0/InterfaceandAbstract.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/bin/Debug/net9.0/InterfaceandAbstract.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/refint/InterfaceandAbstract.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/InterfaceandAbstract.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/InterfaceandAbstract/obj/Debug/net9.0/ref/InterfaceandAbstract.dll

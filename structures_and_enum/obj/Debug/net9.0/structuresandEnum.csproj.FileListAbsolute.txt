@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/bin/Debug/net9.0/structuresandEnum
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/bin/Debug/net9.0/structuresandEnum.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/bin/Debug/net9.0/structuresandEnum.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/bin/Debug/net9.0/structuresandEnum.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/bin/Debug/net9.0/structuresandEnum.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/refint/structuresandEnum.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/structuresandEnum.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/structuresandEnum/obj/Debug/net9.0/ref/structuresandEnum.dll

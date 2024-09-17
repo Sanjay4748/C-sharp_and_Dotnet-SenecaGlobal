@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/bin/Debug/net9.0/variablesandspecifiers
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/bin/Debug/net9.0/variablesandspecifiers.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/bin/Debug/net9.0/variablesandspecifiers.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/bin/Debug/net9.0/variablesandspecifiers.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/bin/Debug/net9.0/variablesandspecifiers.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/refint/variablesandspecifiers.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/variablesandspecifiers.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/variablesandspecifiers/obj/Debug/net9.0/ref/variablesandspecifiers.dll

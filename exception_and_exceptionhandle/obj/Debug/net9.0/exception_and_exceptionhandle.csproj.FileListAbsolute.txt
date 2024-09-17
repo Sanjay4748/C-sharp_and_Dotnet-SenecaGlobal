@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/bin/Debug/net9.0/exception_and_exceptionhandle
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/bin/Debug/net9.0/exception_and_exceptionhandle.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/bin/Debug/net9.0/exception_and_exceptionhandle.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/bin/Debug/net9.0/exception_and_exceptionhandle.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/bin/Debug/net9.0/exception_and_exceptionhandle.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/refint/exception_and_exceptionhandle.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/exception_and_exceptionhandle.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/exception_and_exceptionhandle/obj/Debug/net9.0/ref/exception_and_exceptionhandle.dll

@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/bin/Debug/net9.0/Inheritances
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/bin/Debug/net9.0/Inheritances.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/bin/Debug/net9.0/Inheritances.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/bin/Debug/net9.0/Inheritances.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/bin/Debug/net9.0/Inheritances.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/refint/Inheritances.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/Inheritances.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/Inheritances/obj/Debug/net9.0/ref/Inheritances.dll

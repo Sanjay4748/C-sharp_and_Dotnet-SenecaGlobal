@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/bin/Debug/net9.0/propertiesandindexers
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/bin/Debug/net9.0/propertiesandindexers.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/bin/Debug/net9.0/propertiesandindexers.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/bin/Debug/net9.0/propertiesandindexers.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/bin/Debug/net9.0/propertiesandindexers.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/refint/propertiesandindexers.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/propertiesandindexers.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/propertiesandindexers/obj/Debug/net9.0/ref/propertiesandindexers.dll

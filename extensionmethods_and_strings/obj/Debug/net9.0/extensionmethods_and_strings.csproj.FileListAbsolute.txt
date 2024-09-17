@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/bin/Debug/net9.0/extensionmethods_and_strings
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/bin/Debug/net9.0/extensionmethods_and_strings.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/bin/Debug/net9.0/extensionmethods_and_strings.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/bin/Debug/net9.0/extensionmethods_and_strings.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/bin/Debug/net9.0/extensionmethods_and_strings.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/refint/extensionmethods_and_strings.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/extensionmethods_and_strings.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/extensionmethods_and_strings/obj/Debug/net9.0/ref/extensionmethods_and_strings.dll

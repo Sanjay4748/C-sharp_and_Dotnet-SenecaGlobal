@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/bin/Debug/net9.0/collections
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/bin/Debug/net9.0/collections.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/bin/Debug/net9.0/collections.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/bin/Debug/net9.0/collections.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/bin/Debug/net9.0/collections.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/refint/collections.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/collections.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/collections/obj/Debug/net9.0/ref/collections.dll

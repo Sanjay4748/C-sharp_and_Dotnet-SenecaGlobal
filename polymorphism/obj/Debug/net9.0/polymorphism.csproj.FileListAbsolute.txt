@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/bin/Debug/net9.0/polymorphism
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/bin/Debug/net9.0/polymorphism.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/bin/Debug/net9.0/polymorphism.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/bin/Debug/net9.0/polymorphism.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/bin/Debug/net9.0/polymorphism.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/refint/polymorphism.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/polymorphism.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/polymorphism/obj/Debug/net9.0/ref/polymorphism.dll

@@ -1,0 +1,14 @@
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/bin/Debug/net9.0/multithreading
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/bin/Debug/net9.0/multithreading.deps.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/bin/Debug/net9.0/multithreading.runtimeconfig.json
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/bin/Debug/net9.0/multithreading.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/bin/Debug/net9.0/multithreading.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.AssemblyInfoInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.AssemblyInfo.cs
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.csproj.CoreCompileInputs.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/refint/multithreading.dll
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.pdb
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/multithreading.genruntimeconfig.cache
+/Users/sanjay/Documents/SenecaGlobal/csharp_dev/multithreading/obj/Debug/net9.0/ref/multithreading.dll
